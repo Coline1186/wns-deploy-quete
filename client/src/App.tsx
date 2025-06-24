@@ -30,7 +30,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>Wilders Book with CP</h1>
+          <h1>Wilders Book with Squad</h1>
         </Container>
       </Header>
       <Container>
